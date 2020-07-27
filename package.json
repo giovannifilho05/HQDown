@@ -9,10 +9,12 @@
   "author": "Giovanni Filho",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "fs": "0.0.1-security",
     "image-downloader": "^4.0.1",
     "jpeg-exif": "^1.1.4",
     "pdfkit": "^0.11.0",
-    "prompt": "^1.0.0"
+    "prompt": "^1.0.0",
+    "request": "^2.88.2"
   }
 }
